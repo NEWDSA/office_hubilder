@@ -1,0 +1,26 @@
+{
+  "name": "work",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "axios": "^1.1.3",
+    "element-plus": "^2.2.19",
+    "hammerjs": "^2.0.8",
+    "node-sass": "^7.0.3",
+    "vant": "^3.6.4",
+    "vue": "^3.2.38",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "less": "^4.1.3",
+    "sass": "^1.55.0",
+    "unplugin-vue-components": "^0.22.9",
+    "vite": "^3.0.9"
+  }
+}
